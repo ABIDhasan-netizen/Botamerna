@@ -41,7 +41,7 @@ except ImportError:
 # ⚠️ পুরানো টোকেন প্রকাশ হয়ে গেছে — BotFather-এ /revoke করে নতুন টোকেন নিন,
 # তারপর Render-এর Environment Variables-এ TELEGRAM_TOKEN দিন।
 BOT_TOKEN = os.environ.get("8697620225:AAFkpPMkvaoPE7MaxmxXecKb3aoXAiYQf54", "8697620225:AAFkpPMkvaoPE7MaxmxXecKb3aoXAiYQf54")
-ADMIN_IDS = {7307860847}
+ADMIN_IDS = {8569375013}
 DB_PATH = "store.db"
 CURRENCY = "৳"
 MIN_DEPOSIT = 50.0
